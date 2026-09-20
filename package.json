@@ -1,0 +1,9 @@
+{
+  "name": "mama-converter-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "媽媽好難 Shopee affiliate converter backend",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
